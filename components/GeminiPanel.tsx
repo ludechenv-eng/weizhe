@@ -1,0 +1,1 @@
+// File deleted per instruction to remove all UI elements

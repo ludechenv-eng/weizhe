@@ -1,0 +1,7 @@
+{
+  "name": "Neon Sakura Frost Tree - Gesture Edition",
+  "description": "A high-fidelity 3D interactive Christmas tree with MediaPipe hand gesture control.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
